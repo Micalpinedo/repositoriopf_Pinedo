@@ -28,6 +28,8 @@ public class Proyecto_Final_DataOps{
      c=(vt1+vt2+vt3)*0.10;
      pt=sm+c;
      //Salida de datos
+     System.out.println("Mical       :");
+     System.out.println("Pregunta 6, haciendo cambios:");
      System.out.println("La comision de la venta es       :"+c);
      System.out.println("El Sueldo mensual del vendedor es:"+pt);
    }  // Fin del método
